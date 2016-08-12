@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"com",
+				"comma"
+			],
+			[
+				"inv",
+				"invoice_number"
+			],
+			[
+				"fil",
+				"fileType"
+			],
+			[
+				"in",
+				"invoice_number"
+			],
+			[
+				"invoi",
+				"invoice_number"
+			],
+			[
+				"ch",
+				"charStr"
+			],
+			[
+				"for",
+				"forv	Vector For Loop"
+			],
+			[
+				"E",
+				"END_ITEM_LIST"
+			],
+			[
+				"foo",
+				"footerStr"
+			],
+			[
+				"cli",
+				"clientStr"
+			],
+			[
+				"hea",
+				"headerStr"
+			],
+			[
+				"us",
+				"usingt	Using statement (templated)"
+			],
+			[
+				"u",
+				"using	namespace_std"
+			],
+			[
+				"te",
+				"tempfunctor	Unary template functor"
+			],
+			[
+				"t",
+				"tempfunca	template auto function"
+			],
+			[
+				"n",
+				"namespace"
+			],
+			[
+				"l",
+				"lamfull	Lambda - Full spec"
+			],
+			[
+				"f",
+				"forrange	range-based for"
+			],
+			[
+				"e",
+				"enum	Enumeration"
+			],
+			[
+				"d",
+				"declv	std::declval<T>()"
+			],
+			[
+				"c",
+				"cpp"
+			],
+			[
+				"b",
+				"bintempfunctor	Binary template functor"
+			],
+			[
+				"cl",
+				"clanggreater	Clang version >= check"
+			],
+			[
+				"F",
+				"FileType"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"file",
+				"file_type"
+			],
+			[
+				"FIL",
+				"filetype"
+			],
+			[
+				"to",
+				"to_string"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"date",
+				"date_time"
+			],
+			[
+				"da",
+				"date_time"
+			],
+			[
+				"invoice_",
+				"invoice_time"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"it",
+				"itmArray"
+			],
+			[
+				"item",
+				"Item"
+			],
+			[
+				"ph",
+				"phone2"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"o",
+				"o"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"func",
+				"func2"
+			],
+			[
+				"fun",
+				"func1"
+			],
+			[
+				"m",
+				"M_CARACTER"
+			],
+			[
+				"tpi",
+				"tipoX"
+			],
+			[
+				"th",
+				"th	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 303.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dario/www/app/app2.js",
+		"/C/Users/Dario/www/app/app.js",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/invoice.hpp",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/utils.hpp",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/main.cpp",
+		"/C/Users/Dario/www/bootstrapcourse/index.html",
+		"/C/Users/Dario/www/app/node_modules/express/package.json",
+		"/C/Users/Dario/Documents/MEGA/VisualStudioProjects/TotalInvoiceCS/TotalInvoiceCS/Client.cs",
+		"/C/Users/Dario/Documents/MEGA/VisualStudioProjects/TotalInvoiceCS/TotalInvoiceCS/Item.cs",
+		"/C/Users/Dario/Documents/MEGA/VisualStudioProjects/TotalInvoiceCS/TotalInvoiceCS/Invoice.cs",
+		"/C/Users/Dario/Documents/MEGA/VisualStudioProjects/TotalInvoiceCS/Invoice.cs",
+		"/C/Users/Dario/FiveColor web/new-site/index.html",
+		"/home/dario/Escritorio/prueba.ui",
+		"/home/dario/Escritorio/Clave_nueva_wifi.txt",
+		"/home/dario/MEGA/C++/TotalInvoice/utils.hpp",
+		"/home/dario/MEGA/C++/TotalInvoice/client.hpp",
+		"/home/dario/MEGA/C++/TotalInvoice/456956987.invoice",
+		"/home/dario/MEGA/C++/TotalInvoice/main.cpp",
+		"/home/dario/MEGA/C++/TotalInvoice/invoice.hpp",
+		"/home/dario/java/prueba.java",
+		"/home/dario/prueba.html",
+		"/home/dario/Desarrollo/Tienda web/rsc/wallop-slider-master (adaptacion)/index.html",
+		"/home/dario/Desarrollo/Tienda web/rsc/ItemSlider/ItemSlider/README.md",
+		"/home/dario/MEGA/C++/TotalInvoice/Invoice.hpp",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/456956987.invoice",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/Client.hpp",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/Item.hpp",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/prueba.cpp",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/prueba",
+		"/C/Users/Dario/Downloads/CppYCM-master/messages.json",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/TotalInvoice.sublime-project",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/User/namespace_std.sublime-snippet",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-build",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/C++/C++.sublime-build",
+		"/C/Program Files/Sublime Text 3/Packages/C++.sublime-package",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalInvoice/Invoice.h",
+		"/c/mingw/lib/gcc/mingw32/4.8.1/include/c++/ext/new_allocator.h",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/formato-es.cpp",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalApps/TotalInvoice/Invoice.h",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalApps/TotalInvoice/Item.h",
+		"/C/Users/Dario/Documents/MEGA/C++/TotalApps/TotalInvoice/Client.h",
+		"/C/Users/Dario/Documents/MEGA/java/Factura/src/Invoice/Invoice.java",
+		"/C/Users/Dario/SublimeTextProjects/TotalApps/TotalInvoice/Client.h",
+		"/C/Users/Dario/SublimeTextProjects/TotalApps/TotalInvoice/Item.h",
+		"/C/Users/Dario/SublimeTextProjects/TotalApps/TotalInvoice/Invoice.h",
+		"/C/Users/Dario/SublimeTextProjects/TotalApps/TotalInvoice/Makefile",
+		"/C/MinGW/mingw32/lib/gcc/mingw32/4.8.1/include/c++/tr1/cwchar",
+		"/C/MinGW/mingw32/lib/gcc/mingw32/4.8.1/include/c++/tr1/wchar.h",
+		"/C/MinGW/include/stdio.h",
+		"/C/MinGW/lib/gcc/mingw32/4.8.1/include/c++/mingw32/bits/os_defines.old.h",
+		"/C/MinGW/lib/gcc/mingw32/4.8.1/include/c++/mingw32/bits/os_defines.h",
+		"/C/MinGW/lib/gcc/mingw32/4.8.1/include/c++/vector",
+		"/C/MinGW/lib/gcc/mingw32/4.8.1/include/c++/string",
+		"/C/Users/Dario/SublimeTextProjects/TotalApps/TotalInvoice/TotalInvoice.sublime-project",
+		"/C/Users/Dario/SublimeTextProjects/TotalApps/TotalInvoice/makefile",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-a-clase.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/presision.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/almacenamiento.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/volatile.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/endianess.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/zator.sublime-project",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/sizeof.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/prueba.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/conversiones.cpp",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Dario/AppData/Local/Sublime Text 3/Cache/C++/Comments (C++).tmPreferences.cache",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dario/AppData/Local/Sublime Text 3/Cache/C++/C++.tmLanguage.cache",
+		"/C/Users/Dario/Sublime Text Projects/Zator.com/zator.sublime-project",
+		"/C/Users/Dario/Sublime Text Projects/presision.cpp",
+		"/C/Users/Dario/www/bootstrapcourse/index_01.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Rename",
+			"comma",
+			", ",
+			"str_to_int",
+			"int",
+			"man",
+			"','",
+			"delimiter",
+			"fileType",
+			", ",
+			"headerStr",
+			"save_text_file",
+			"binary",
+			"Binary",
+			"binary",
+			"xml",
+			"XML",
+			"xml",
+			"json",
+			"plain_text",
+			"i",
+			"dario",
+			"clear",
+			"stm",
+			"str",
+			"endl",
+			"itm1",
+			"public",
+			"this",
+			"id",
+			"getId",
+			"string",
+			"String",
+			"Item",
+			"invoice",
+			"f1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 282.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 332.0
+	},
+	"pinned_build_system": "",
+	"project": "TotalInvoice.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"presi",
+				"presision.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Invoice"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"mi_init"
+			],
+			[
+				"Ini",
+				"Inicializadores"
+			],
+			[
+				"get",
+				"get_i"
+			],
+			[
+				"mi_",
+				"mi_clase"
+			],
+			[
+				"ptr",
+				"ptr_mi_clase"
+			],
+			[
+				"get_",
+				"get_c"
+			],
+			[
+				"set",
+				"set_int_privado"
+			],
+			[
+				"str",
+				"str_publico"
+			],
+			[
+				"str_",
+				"str_protegido"
+			],
+			[
+				"C",
+				"char_privado"
+			],
+			[
+				"ge",
+				"get_char_privado"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"mio",
+				"mi_char_privado"
+			],
+			[
+				"int",
+				"int_privado"
+			],
+			[
+				"pr",
+				"printY"
+			],
+			[
+				"ca",
+				"CAlpha"
+			],
+			[
+				"al",
+				"ALPHA"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"cliente",
+				"nuevo_cliente"
+			],
+			[
+				"cl",
+				"clte"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"re",
+				"resta"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"fun",
+				"fun3"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"func",
+				"func2"
+			],
+			[
+				"m",
+				"M_CARACTER"
+			],
+			[
+				"t",
+				"tipoY"
+			],
+			[
+				"tpi",
+				"tipoX"
+			],
+			[
+				"th",
+				"th	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 389.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 303.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/zator.sublime-project",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/prueba.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/inicializacion-de-miembros.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/destructor.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-a-clases.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/herencia2.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/herencia.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/clases-locales.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/sobrecarga-operadores.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/friend.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/sobrecarga-de-metodos.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/vector.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/operador-typeid.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/operadores-punteros.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/modelado.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/estructuras-y-funciones.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/funcion-devolviendo-referencia.cpp",
+		"/C/Users/Dario/Google Drive/Ejemplos de código C++/unix-source/chapter07/makefile",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/decl-ind-mtrz-bdim.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/argumentos-a-main.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/funciones.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/init-matr-mult.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/argumantos-por-referencia.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/funcion-no-declarada.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/argumentos-por-referencia.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/matriz-multidimensional.cpp",
+		"/C/Users/Dario/Documents/MEGA/java/PracticaMarcelo/src/CopyBytes.java",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-como-argumento.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/prueba-punteros-a-funcion.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/prueba-struct.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/referencia-temporal.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/referencia.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/prueba-punteros.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-a-miembros-estaticos.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-a-miembros-final.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-internos-a-miembros_b.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-externos-a-miembros.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-internos-a-miembros.cpp",
+		"/C/Users/Dario/Desktop/htmapp/README",
+		"/C/Users/Dario/Desktop/htmapp/src/Makefile",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/puntero-a-miembro.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros-a-clase.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/presision.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/punteros.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/almacenamiento.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/volatile.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/endianess.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/sizeof.cpp",
+		"/C/Users/Dario/SublimeTextProjects/Zator.com/conversiones.cpp",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-build",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Dario/AppData/Local/Sublime Text 3/Cache/C++/Comments (C++).tmPreferences.cache",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dario/AppData/Roaming/Sublime Text 3/Packages/C++/C++.sublime-build",
+		"/C/Users/Dario/AppData/Local/Sublime Text 3/Cache/C++/C++.tmLanguage.cache",
+		"/C/Program Files/Sublime Text 3/Packages/C++.sublime-package",
+		"/C/Users/Dario/Sublime Text Projects/Zator.com/zator.sublime-project",
+		"/C/Users/Dario/Sublime Text Projects/presision.cpp",
+		"/C/Users/Dario/www/bootstrapcourse/index.html",
+		"/C/Users/Dario/www/bootstrapcourse/index_01.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inicializadores",
+			"Inicializadores",
+			"ptr",
+			"obj",
+			"ptr",
+			"get_nombre",
+			"zz",
+			"c.",
+			"c",
+			"clte",
+			"=",
+			"clte",
+			"nombre",
+			"string",
+			"C ",
+			"C",
+			"c",
+			"C",
+			"f1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"presi",
+				"presision.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

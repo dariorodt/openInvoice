@@ -1,0 +1,149 @@
+Clase: Client
+
+private String id;
+private String name;
+private String address;
+private String phone1;
+private String phone2;
+
+public Client(String id, String name, String address, String phone1, String phone2)
+
+GETTERS:
+
+public String getId() { return id; }
+public String getName() { return name; }
+public String getAddress() { return address; }
+public String getPhone1() { return phone1; }
+public String getPhone2() { return phone2; }
+
+SETTERS:
+
+public void setId(string id) { this->id = id; }
+public void setName(string name) { this->name = name; }
+public void setAddress(string address) { this->address = address; }
+public void setPhone1(string phone1) { this->phone1 = phone1; }
+public void setPhone2(string phone2) { this->phone2 = phone2; }
+
+GENERAL METHODS:
+
+public String toString()
+
+------------------------------------------------
+
+Clase: Item
+
+private String itemID; 		// Código único de identificación del producto
+private String itemDesript; // Descripción y especificaciones del producto
+private double itemPrice; 	// Precio de venta sin impuestos
+private double itemQuant; 	// Cantidad
+private double itemTotal;	// Total precio del item
+
+CONSTRUCTORS:
+
+public Item(String itemID, String itemDesript, double itemPrice, double itemQuant)
+
+public Item() {}
+
+GETTERS:
+
+public string getItemId() { return item_id; }
+public string getItemDesript() { return item_desript; }
+public double getItemPrice() { return item_price; }
+public double getItemQuantity() { return item_quantity; }
+public double getItemTotal() { return item_total; }
+
+GENERAL METHODS:
+
+public String toString()
+
+------------------------------------------------
+
+Clase: Invoice
+
+public enum FileType { PLAIN, JSON, XML, BINARY }
+private String invoiceNumber;
+private String invoiceDate;
+private String invoiceTime;
+private String budgetNumber;
+private String controlNumber;
+
+private double subTotal;
+private double tax;
+private double total;
+
+private Client client;
+
+private List<Item> items;
+
+private boolean active;
+private boolean paid;
+
+CONSTRUCTORS:
+
+public Invoice(String invoiceNumber, String budgetNumber, String controlNunber, Client client)
+
+GETTERS:
+
+public String getInvoiceNumber() {}
+public String getInvoiceDate() {}
+public String getInvoiceTime() {}
+public String getBudgetNumber() {}
+public String getControlNumber() {}
+
+public double getSubTotal() {}
+public double getTax() {}
+public double getTotal() {}
+
+public boolean isActive() {}
+public boolean isPaid() {}
+
+public Item getItem() {}
+
+public int itemListSize() {}
+
+SETTERS:
+
+public void fillItems(Item[] itemArray) {}
+public void setActive(boolean active) {}
+public void setPaid(boolean paid) {}
+
+GENERAL METHODS:
+
+public void compute() {}
+
+public String toString() {}
+
+public void addItem(Item newItem) {}
+
+public void addItem(String id, String desript, double price, double qtty) {}
+
+public Item findItemById(Stirng itemId) {} // Rename findItem()
+
+public int findItemIndexById(String itemId) {} // Rename findItem() (overload)
+
+public void deleteItemById(String itemId) {} // Rename deleteItem()
+
+public void deleteItemByIndex(String itemId) {} // Rename deleteItem()
+
+public void clearItems() {}
+
+// Todo: public boolean loadFile(String fileName) {}
+// Todo: public boolean saveFile(String fileName)  {} [FileTypes: PlainText, JASON, XML or Binary (serialized)]
+// Todo: Implement a way to connect to a database server
+// Todo: Create methods for manipulate database: dbSearch(), dbLoad(), dbUpdate(), dbAppend(), dbDelete()tir Item[] intems en List<Intem> items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

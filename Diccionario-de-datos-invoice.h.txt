@@ -1,0 +1,119 @@
+// Invoice.h
+
+
+enum FileType { PLAIN, JSON, XML, BINARY };
+enum InvoiceState { ACTIVE, CLOSED, CANCELED, ANULATED };
+
+class Invoice
+
+private: // All private members
+
+	FileType file_type = PLAIN;
+	string invoice_number;
+	string invoice_date;
+	string invoice_time;
+	string budget_number;
+	string control_number;
+	string file_name;
+	
+	double sub_total;
+	double tax;
+	double total;
+	
+	Client client;
+	
+	list<Item> items;
+	
+	bool active;
+	bool paid;
+    
+	time_t now;
+	struct tm * date_time;
+	
+	ostringstream stmstr;
+	char colon = ';';
+	char comma = ',';
+
+
+public: // All Public members
+
+
+	// =========================================================================== CONSTRUCTORS
+
+	Invoice(string invoice_number, string budget_number, string control_number, Client client)
+
+	Invoice(string fn)
+
+	~Invoice();
+
+	// =========================================================================== GETTERS
+
+	string get_file_name()
+
+	string get_invoice_number()
+
+	string get_invoice_date()
+
+	string get_invoice_time()
+
+	string get_budget_number()
+
+	string get_control_number()
+
+	Client get_client()
+
+	double get_sub_total()
+
+	double get_tax()
+
+	double get_total()
+
+	bool is_active()
+
+    	bool is_paid()
+
+	Item get_item(int indx)
+
+	int items_list_size()
+
+
+
+
+	// =========================================================================== SETTERS
+
+	void set_items(Item itmArr[], int n)
+
+	void set_file_name(string fn) // Evaluar conveniencia...
+
+	void set_active(bool active)
+
+	void set_paid(bool paid)
+
+
+
+
+	// =========================================================================== GENERAL METHODS
+	
+	
+	void compute()
+
+	void add_item(Item itm)
+
+	void add_item(string id, string desript, double price, double qtty)
+
+	Item find_item_by_id(string itmID)
+
+	int find_item_index_by_id(string itmID)
+
+	void delete_item_by_id(string itmID)
+
+	void delete_item_by_index(int indx)
+
+	void clear_items()
+
+	bool save_file()
+
+	// Todo: string json_string() {} // Returns a JSON serialized string.
+	// Todo: Mark methofs to extract to an extern library: lib-inv-utils.0.1.0
+	// Todo: Implement a way to connect to a database server
+	// Todo: Create methods for manipulate database: dbSearch(), dbLoad(), dbUpdate(), dbAppend(), dbDelete()
